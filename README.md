@@ -2,17 +2,18 @@
 
 ## Decklists
 
-For some archetypes, there isn't a pure version decklist if combining the deck with other archetypes makes it significantly stronger. Eg. the pure version of 'Primeval Forest' or 'Savage Beast' only increases the chances of bricking, or archetypes like 'Irradiance', or archetypes like 'Irradiance' and 'Fog Dragon' that work too well together to be played separately.
+For some archetypes, there isn't a pure version decklist if combining the deck with other archetypes makes it significantly stronger.<br>
+Eg. playing the pure version of 'Primeval Forest' or 'Savage Beast' only increases the chances of bricking, or for archetypes like 'Irradiance' and 'Fog Dragon' that work too well together to be played separately.
 
-I try to keep the decks updated with the latest cards released, both TCG/OCG ones and additions to my custom archetypes. However, when a banlist is released, not all decks may be immediately updated by removing the banned/limited cards if those affected cards were essential to the deck's strategy.
+I try to keep the decks updated with the latest cards released, both TCG/OCG ones and additions to my custom archetypes.<br>
+However, when a banlist is released, not all decks may be immediately updated by removing the banned/limited cards if those affected cards were essential to the deck's strategy.
 
 ## Example Combo Replays
 
-Example combo usually starts with 1-2 cards. This is because for more complex combos, a single replay wouldn't be enough since there could be dozens of possibilities depending on the starting hand.<br>
-These examples are meant to give you an idea of the deck's strategy.
+These examples are meant to give you an idea of the deck's strategy and usually starts with 1-2 cards. This is because for more complex combos, a single replay wouldn't be enough since there could be dozens of possibilities depending on the starting hand.<br>
 
 For some decks, there might not be a combo because:
-* The deck doesn't have on a combo but plays in response to opponent's actions, eg. decks like 'D.D. Invader' or 'Soulbound.'
+* The deck doesn't have a combo but instead plays in response to opponent's actions, eg. archetypes like 'D.D. Invader' or 'Soulbound.'
 * There isn't a basic combo; it varies significantly depending on the cards in starting hand. For example, for decks like 'External Worlds' or 'Crearmor,' almost any hand with at least 3 different monsters is playable, but everytime the combo is slightly different.
 * I haven't had the time, I have created a lot of archetypes. I'll try to add at least 1 example combo for each deck where it's possible and update those that are no longer feasible due to banned cards.
 
