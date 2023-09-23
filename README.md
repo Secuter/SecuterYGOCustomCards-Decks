@@ -5,3 +5,5 @@ Eg. playing the pure version of 'Primeval Forest' or 'Savage Beast' only increas
 
 I try to keep the decks updated with the latest cards released, both TCG/OCG ones and additions to my custom archetypes.<br>
 However, when a banlist is released, not all decks may be immediately updated by removing the banned/limited cards if those affected cards were essential to the deck's strategy.
+
+Download the [zip](https://raw.githubusercontent.com/Secuter/SecuterYGOCustomCards-Decks/main/deck.zip) with all decks.
