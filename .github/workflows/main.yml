@@ -1,0 +1,32 @@
+name: Zip & Create Release
+
+on:
+  push:
+    branches: main
+
+  workflow_dispatch:
+
+permissions:
+  contents: write 
+
+concurrency:
+  group: "release"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Zip the folder
+      run: zip -r deck.zip deck
+      
+    - name: Create a release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "deck.zip"
+        tag: ${{ github.run_number }}
+        name: "Release ${{ github.run_number }}"
