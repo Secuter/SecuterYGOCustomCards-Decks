@@ -7,3 +7,4 @@ I try to keep the decks updated with the latest cards released, both TCG/OCG one
 However, when a banlist is released, not all decks may be immediately updated by removing the banned/limited cards if those affected cards were essential to the deck's strategy.
 
 Download the [deck.zip](https://github.com/Secuter/SecuterYGOCustomCards-Decks/releases/latest/download/deck.zip) with all decks.
+PS: Most of them still contains Baronne de Fleur and Borreload Savage Dragon.
