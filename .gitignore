@@ -1,3 +1,8 @@
+# Sync folders
+.stversions
+.stfolder
+
+# Exluded Decks
 Amorphiend.ydk
 Arcaeonix Purrely.ydk
 Armor.ydk
@@ -25,10 +30,9 @@ Harpie.ydk
 DinoP-Ranger.ydk
 WildRuin.ydk
 *Impish*.ydk
-deck/Ashened.ydk
-deck/Fire King Snake-Eye.ydk
-/deck/.stversions
-deck/Majespecter.ydk
-deck/*Raging Dragon*.ydk
-deck/\[Tactical-Try Deck\]*.ydk
-deck/JellyBeans.ydk
+Ashened.ydk
+Fire King Snake-Eye.ydk
+Majespecter.ydk
+*Raging Dragon*.ydk
+\[Tactical-Try Deck\]*.ydk
+JellyBeans.ydk

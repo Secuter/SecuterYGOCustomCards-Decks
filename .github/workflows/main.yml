@@ -21,8 +21,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
-    - name: Zip the folder
-      run: zip -r deck.zip deck
+    - name: Zip root YDK files
+      run: zip deck.zip ./*.ydk
       
     - name: Create a release
       uses: ncipollo/release-action@v1
